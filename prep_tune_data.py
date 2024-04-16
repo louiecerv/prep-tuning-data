@@ -58,9 +58,9 @@ def app():
     # verifying if the file is a valid jsonl file
     filepath = "data/aleanon-sentences.jsonl"
     if is_valid_jsonl(filepath):
-        print(f"File {filepath} is a valid JSONL file.")
+        st.write(f"File {filepath} is a valid JSONL file.")
     else:
-        print(f"File {filepath} is not a valid JSONL file.")
+        st.write(f"File {filepath} is not a valid JSONL file.")
 
 
 if __name__ == "__main__":
