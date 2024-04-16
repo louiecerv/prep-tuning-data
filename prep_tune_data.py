@@ -59,6 +59,7 @@ def app():
     with open("data/aleanon-sentences.jsonl", "w") as f:
         f.write(jsonl_str)
 
+    st.write("The JSONL file has been saved. Verifying if it is a valid JSONL file...")
     # verifying if the file is a valid jsonl file
     filepath = "data/aleanon-sentences.jsonl"
     if is_valid_jsonl(filepath):
