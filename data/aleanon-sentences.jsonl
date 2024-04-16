@@ -3,7 +3,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Umagto ako sa baeay sang igkampod."
+"content": "translate to english: Umagto ako sa baeay sang igkampod."
 },
 {
 "role": "model",
@@ -15,7 +15,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Mataeom ro siyaw."
+"content": "translate to english: Mataeom ro siyaw."
 },
 {
 "role": "model",
@@ -27,7 +27,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Maeapad ro eugta ni Mang Kanor."
+"content": "translate to english: Maeapad ro eugta ni Mang Kanor."
 },
 {
 "role": "model",
@@ -39,7 +39,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Nagdamgo ako kabii."
+"content": "translate to english: Nagdamgo ako kabii."
 },
 {
 "role": "model",
@@ -51,7 +51,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Bilog ro buean."
+"content": "translate to english: Bilog ro buean."
 },
 {
 "role": "model",
@@ -63,7 +63,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Gin-eapog ni Josh ro bola."
+"content": "translate to english: Gin-eapog ni Josh ro bola."
 },
 {
 "role": "model",
@@ -75,7 +75,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Nagbakae si Maya sa baraka."
+"content": "translate to english: Nagbakae si Maya sa baraka."
 },
 {
 "role": "model",
@@ -87,7 +87,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Nagbalintong si Dan sa hagdan."
+"content": "translate to english: Nagbalintong si Dan sa hagdan."
 },
 {
 "role": "model",
@@ -99,7 +99,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Mahumot ro bueak."
+"content": "translate to english: Mahumot ro bueak."
 },
 {
 "role": "model",
@@ -111,7 +111,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Nag-ihapon ako sa baeay sang klasmeyt."
+"content": "translate to english: Nag-ihapon ako sa baeay sang klasmeyt."
 },
 {
 "role": "model",
@@ -123,7 +123,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Makaron eang owa nag-ilabas si Jonathan."
+"content": "translate to english: Makaron eang owa nag-ilabas si Jonathan."
 },
 {
 "role": "model",
@@ -135,7 +135,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Mabueak ro eambong nga suksok ni Maria."
+"content": "translate to english: Mabueak ro eambong nga suksok ni Maria."
 },
 {
 "role": "model",
@@ -147,7 +147,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Gin-eapog ni Asi ro sudlay sa idaeom it duyan."
+"content": "translate to english: Gin-eapog ni Asi ro sudlay sa idaeom it duyan."
 },
 {
 "role": "model",
@@ -159,7 +159,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Maaeam magsueat it mga istorya nga makataeangis ro akong kaklase."
+"content": "translate to english: Maaeam magsueat it mga istorya nga makataeangis ro akong kaklase."
 },
 {
 "role": "model",
@@ -171,7 +171,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Maeapad ro gaob nga nabu-oe nana sa pagbalintong sa hagdanan."
+"content": "translate to english: Maeapad ro gaob nga nabu-oe nana sa pagbalintong sa hagdanan."
 },
 {
 "role": "model",
@@ -183,7 +183,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ginbu-oe ni Sean ro baeonan ni Mark."
+"content": "translate to english: Ginbu-oe ni Sean ro baeonan ni Mark."
 },
 {
 "role": "model",
@@ -195,7 +195,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Napuno it baeas ro anang banig dahil kakaeangoy na eang sa baybay."
+"content": "translate to english: Napuno it baeas ro anang banig dahil kakaeangoy na eang sa baybay."
 },
 {
 "role": "model",
@@ -207,7 +207,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ginhueat ni Aaron si Drey nga maghueag agod magdungan sanda."
+"content": "translate to english: Ginhueat ni Aaron si Drey nga maghueag agod magdungan sanda."
 },
 {
 "role": "model",
@@ -219,7 +219,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Maeapad ro binakae nga haboe ni Ronnie para sa anang katre."
+"content": "translate to english: Maeapad ro binakae nga haboe ni Ronnie para sa anang katre."
 },
 {
 "role": "model",
@@ -231,7 +231,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ginbugkos nana ro mga eansang ag gintago sa anang buesa."
+"content": "translate to english: Ginbugkos nana ro mga eansang ag gintago sa anang buesa."
 },
 {
 "role": "model",
@@ -243,7 +243,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Si Bella hay gwapa nga bayi."
+"content": "translate to english: Si Bella hay gwapa nga bayi."
 },
 {
 "role": "model",
@@ -255,7 +255,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Idto sa bueutangan ro tinapay."
+"content": "translate to english: Idto sa bueutangan ro tinapay."
 },
 {
 "role": "model",
@@ -267,7 +267,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Madasig magdaeagan ro ayam."
+"content": "translate to english: Madasig magdaeagan ro ayam."
 },
 {
 "role": "model",
@@ -279,7 +279,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Mahilig sa tanom si Janette."
+"content": "translate to english: Mahilig sa tanom si Janette."
 },
 {
 "role": "model",
@@ -291,7 +291,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Indi makita ni Jessica ro euwag."
+"content": "translate to english: Indi makita ni Jessica ro euwag."
 },
 {
 "role": "model",
@@ -303,7 +303,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Gakita kami hinaga ni Dan sa plaza."
+"content": "translate to english: Gakita kami hinaga ni Dan sa plaza."
 },
 {
 "role": "model",
@@ -315,7 +315,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Pirmi nga naulihi si Kyle sa klase."
+"content": "translate to english: Pirmi nga naulihi si Kyle sa klase."
 },
 {
 "role": "model",
@@ -327,7 +327,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Naubos eagi ro kwarta nga ginapadaea ni nanay."
+"content": "translate to english: Naubos eagi ro kwarta nga ginapadaea ni nanay."
 },
 {
 "role": "model",
@@ -339,7 +339,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Nagpaayos ako it ngipon kahapon."
+"content": "translate to english: Nagpaayos ako it ngipon kahapon."
 },
 {
 "role": "model",
@@ -351,7 +351,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ginregaluhan ako ni Nick it pahumot."
+"content": "translate to english: Ginregaluhan ako ni Nick it pahumot."
 },
 {
 "role": "model",
@@ -363,7 +363,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Si Antonio ag Maria ro pangaean it akong ginikanan."
+"content": "translate to english: Si Antonio ag Maria ro pangaean it akong ginikanan."
 },
 {
 "role": "model",
@@ -375,7 +375,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ginhakwat ni James ro sangka sako nga bugas gamit ra abaga."
+"content": "translate to english: Ginhakwat ni James ro sangka sako nga bugas gamit ra abaga."
 },
 {
 "role": "model",
@@ -387,7 +387,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Abante it daywa nga puntos ro grupo nanday Edward."
+"content": "translate to english: Abante it daywa nga puntos ro grupo nanday Edward."
 },
 {
 "role": "model",
@@ -399,7 +399,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Mas mabahoe ro alima ni Jane kaysa kay Kaila."
+"content": "translate to english: Mas mabahoe ro alima ni Jane kaysa kay Kaila."
 },
 {
 "role": "model",
@@ -411,7 +411,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ako hay may napueo nga tudlo sa akong daywang alima."
+"content": "translate to english: Ako hay may napueo nga tudlo sa akong daywang alima."
 },
 {
 "role": "model",
@@ -423,7 +423,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Adlaw-adlaw ginabunyagan ni lola Rosa ro ana nga mga tanom."
+"content": "translate to english: Adlaw-adlaw ginabunyagan ni lola Rosa ro ana nga mga tanom."
 },
 {
 "role": "model",
@@ -435,7 +435,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Manami ro among ilabas kaina."
+"content": "translate to english: Manami ro among ilabas kaina."
 },
 {
 "role": "model",
@@ -447,7 +447,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Sinampae ni Elsa si Anna dahil imaw hay gapina-ugtas."
+"content": "translate to english: Sinampae ni Elsa si Anna dahil imaw hay gapina-ugtas."
 },
 {
 "role": "model",
@@ -459,7 +459,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Maeapad ro baeay ni Pedro."
+"content": "translate to english: Maeapad ro baeay ni Pedro."
 },
 {
 "role": "model",
@@ -471,7 +471,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Nagbakae it mantika si Juan sa tindahan."
+"content": "translate to english: Nagbakae it mantika si Juan sa tindahan."
 },
 {
 "role": "model",
@@ -483,7 +483,7 @@
 "messages": [
 {
 "role": "user",
-"content": "May an-um nga unga si Lolo Roberto."
+"content": "translate to english: May an-um nga unga si Lolo Roberto."
 },
 {
 "role": "model",
@@ -495,7 +495,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ginkaeos it kuring ro akong uyahon."
+"content": "translate to english: Ginkaeos it kuring ro akong uyahon."
 },
 {
 "role": "model",
@@ -507,7 +507,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Kanami pamantawon ro mga pispis sa sanga it puno."
+"content": "translate to english: Kanami pamantawon ro mga pispis sa sanga it puno."
 },
 {
 "role": "model",
@@ -519,7 +519,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Nagpanglimpyo si Alex sa likod it anda nga baeay gamit ro silhig."
+"content": "translate to english: Nagpanglimpyo si Alex sa likod it anda nga baeay gamit ro silhig."
 },
 {
 "role": "model",
@@ -531,7 +531,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ginhutik ni Richandrey kay Kaila ro ana nga nailaan."
+"content": "translate to english: Ginhutik ni Richandrey kay Kaila ro ana nga nailaan."
 },
 {
 "role": "model",
@@ -543,7 +543,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Manami ro ginabaligya nga panit it manok sa plaza."
+"content": "translate to english: Manami ro ginabaligya nga panit it manok sa plaza."
 },
 {
 "role": "model",
@@ -555,7 +555,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Ginbuksan ni Amara ro purtahan."
+"content": "translate to english: Ginbuksan ni Amara ro purtahan."
 },
 {
 "role": "model",
@@ -567,7 +567,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Makahaeawa ro hibayag ni Kate."
+"content": "translate to english: Makahaeawa ro hibayag ni Kate."
 },
 {
 "role": "model",
@@ -579,7 +579,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Haaywanan ni Mikay ro anang kaeo."
+"content": "translate to english: Haaywanan ni Mikay ro anang kaeo."
 },
 {
 "role": "model",
@@ -591,7 +591,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Abo kung kumaon it humay si Bobby."
+"content": "translate to english: Abo kung kumaon it humay si Bobby."
 },
 {
 "role": "model",
@@ -603,7 +603,7 @@
 "messages": [
 {
 "role": "user",
-"content": "I went to my cousin's house."
+"content": "translate to akeanon: I went to my cousin's house."
 },
 {
 "role": "model",
@@ -615,7 +615,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The knife is sharp."
+"content": "translate to akeanon: The knife is sharp."
 },
 {
 "role": "model",
@@ -627,7 +627,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Mang Kanor's lot is wide."
+"content": "translate to akeanon: Mang Kanor's lot is wide."
 },
 {
 "role": "model",
@@ -639,7 +639,7 @@
 "messages": [
 {
 "role": "user",
-"content": "I dreamed last night."
+"content": "translate to akeanon: I dreamed last night."
 },
 {
 "role": "model",
@@ -651,7 +651,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The moon is round."
+"content": "translate to akeanon: The moon is round."
 },
 {
 "role": "model",
@@ -663,7 +663,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Josh threw the ball."
+"content": "translate to akeanon: Josh threw the ball."
 },
 {
 "role": "model",
@@ -675,7 +675,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Maya bought from the store."
+"content": "translate to akeanon: Maya bought from the store."
 },
 {
 "role": "model",
@@ -687,7 +687,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Dan fell down the stairs."
+"content": "translate to akeanon: Dan fell down the stairs."
 },
 {
 "role": "model",
@@ -699,7 +699,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The flowers smell nice."
+"content": "translate to akeanon: The flowers smell nice."
 },
 {
 "role": "model",
@@ -711,7 +711,7 @@
 "messages": [
 {
 "role": "user",
-"content": "I ate dinner at my classmate's house."
+"content": "translate to akeanon: I ate dinner at my classmate's house."
 },
 {
 "role": "model",
@@ -723,7 +723,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Only today did Jonathan not eat lunch."
+"content": "translate to akeanon: Only today did Jonathan not eat lunch."
 },
 {
 "role": "model",
@@ -735,7 +735,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The clothes that Maria is wearing are flowery."
+"content": "translate to akeanon: The clothes that Maria is wearing are flowery."
 },
 {
 "role": "model",
@@ -747,7 +747,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Asi threw the comb under the craddle."
+"content": "translate to akeanon: Asi threw the comb under the craddle."
 },
 {
 "role": "model",
@@ -759,7 +759,7 @@
 "messages": [
 {
 "role": "user",
-"content": "My classmate is smart when it comes to writing stories that make people cry."
+"content": "translate to akeanon: My classmate is smart when it comes to writing stories that make people cry."
 },
 {
 "role": "model",
@@ -771,7 +771,7 @@
 "messages": [
 {
 "role": "user",
-"content": "He got a wide bruise when he fell from the stairs."
+"content": "translate to akeanon: He got a wide bruise when he fell from the stairs."
 },
 {
 "role": "model",
@@ -783,7 +783,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Sean took Mark's lunch-box."
+"content": "translate to akeanon: Sean took Mark's lunch-box."
 },
 {
 "role": "model",
@@ -795,7 +795,7 @@
 "messages": [
 {
 "role": "user",
-"content": "His mat became full of sand because he just went swimming at the beach."
+"content": "translate to akeanon: His mat became full of sand because he just went swimming at the beach."
 },
 {
 "role": "model",
@@ -807,7 +807,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Aaron waited for Drey so that they could move in unison."
+"content": "translate to akeanon: Aaron waited for Drey so that they could move in unison."
 },
 {
 "role": "model",
@@ -819,7 +819,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The blanket that Ronnie bought for his bed was wide."
+"content": "translate to akeanon: The blanket that Ronnie bought for his bed was wide."
 },
 {
 "role": "model",
@@ -831,7 +831,7 @@
 "messages": [
 {
 "role": "user",
-"content": "He tied the nails together and hid them in his pocket."
+"content": "translate to akeanon: He tied the nails together and hid them in his pocket."
 },
 {
 "role": "model",
@@ -843,7 +843,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Bella is a beautiful girl."
+"content": "translate to akeanon: Bella is a beautiful girl."
 },
 {
 "role": "model",
@@ -855,7 +855,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The bread is in the container."
+"content": "translate to akeanon: The bread is in the container."
 },
 {
 "role": "model",
@@ -867,7 +867,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The dog runs fast."
+"content": "translate to akeanon: The dog runs fast."
 },
 {
 "role": "model",
@@ -879,7 +879,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Janette loves plants."
+"content": "translate to akeanon: Janette loves plants."
 },
 {
 "role": "model",
@@ -891,7 +891,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Jessica cannot find the ladle."
+"content": "translate to akeanon: Jessica cannot find the ladle."
 },
 {
 "role": "model",
@@ -903,7 +903,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Dan and I will meet at the plaza tomorrow."
+"content": "translate to akeanon: Dan and I will meet at the plaza tomorrow."
 },
 {
 "role": "model",
@@ -915,7 +915,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Kyle is always late in class."
+"content": "translate to akeanon: Kyle is always late in class."
 },
 {
 "role": "model",
@@ -927,7 +927,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The money that mother sent was already used up."
+"content": "translate to akeanon: The money that mother sent was already used up."
 },
 {
 "role": "model",
@@ -939,7 +939,7 @@
 "messages": [
 {
 "role": "user",
-"content": "I had my teeth fixed yesterday."
+"content": "translate to akeanon: I had my teeth fixed yesterday."
 },
 {
 "role": "model",
@@ -951,7 +951,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Nick gifted me a perfume."
+"content": "translate to akeanon: Nick gifted me a perfume."
 },
 {
 "role": "model",
@@ -963,7 +963,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Antonio and Maria are the names of my parents."
+"content": "translate to akeanon: Antonio and Maria are the names of my parents."
 },
 {
 "role": "model",
@@ -975,7 +975,7 @@
 "messages": [
 {
 "role": "user",
-"content": "James used his shoulders to lift a sack of rice."
+"content": "translate to akeanon: James used his shoulders to lift a sack of rice."
 },
 {
 "role": "model",
@@ -987,7 +987,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Edward\u2019s team is leading with 2 points."
+"content": "translate to akeanon: Edward\u2019s team is leading with 2 points."
 },
 {
 "role": "model",
@@ -999,7 +999,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Jane\u2019s hand is bigger than Kaila\u2019s."
+"content": "translate to akeanon: Jane\u2019s hand is bigger than Kaila\u2019s."
 },
 {
 "role": "model",
@@ -1011,7 +1011,7 @@
 "messages": [
 {
 "role": "user",
-"content": "I have 10 fingers on both of my hands."
+"content": "translate to akeanon: I have 10 fingers on both of my hands."
 },
 {
 "role": "model",
@@ -1023,7 +1023,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Lola Rosa waters her plants everyday."
+"content": "translate to akeanon: Lola Rosa waters her plants everyday."
 },
 {
 "role": "model",
@@ -1035,7 +1035,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Our lunch was very delicious."
+"content": "translate to akeanon: Our lunch was very delicious."
 },
 {
 "role": "model",
@@ -1047,7 +1047,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Elsa slapped Anna because she is naughty."
+"content": "translate to akeanon: Elsa slapped Anna because she is naughty."
 },
 {
 "role": "model",
@@ -1059,7 +1059,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Pedro\u2019s house is wide."
+"content": "translate to akeanon: Pedro\u2019s house is wide."
 },
 {
 "role": "model",
@@ -1071,7 +1071,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Juan bought oil from the market."
+"content": "translate to akeanon: Juan bought oil from the market."
 },
 {
 "role": "model",
@@ -1083,7 +1083,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Lolo Roberto has six children."
+"content": "translate to akeanon: Lolo Roberto has six children."
 },
 {
 "role": "model",
@@ -1095,7 +1095,7 @@
 "messages": [
 {
 "role": "user",
-"content": "A cat scratched my face."
+"content": "translate to akeanon: A cat scratched my face."
 },
 {
 "role": "model",
@@ -1107,7 +1107,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The birds on the tree branch are nice to look at."
+"content": "translate to akeanon: The birds on the tree branch are nice to look at."
 },
 {
 "role": "model",
@@ -1119,7 +1119,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Alex cleaned their backyard using a broom."
+"content": "translate to akeanon: Alex cleaned their backyard using a broom."
 },
 {
 "role": "model",
@@ -1131,7 +1131,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Richandrey whispered his crush\u2019s name to Kaila."
+"content": "translate to akeanon: Richandrey whispered his crush\u2019s name to Kaila."
 },
 {
 "role": "model",
@@ -1143,7 +1143,7 @@
 "messages": [
 {
 "role": "user",
-"content": "The chicken skin being sold at the plaza is delicious."
+"content": "translate to akeanon: The chicken skin being sold at the plaza is delicious."
 },
 {
 "role": "model",
@@ -1155,7 +1155,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Amara opened the door."
+"content": "translate to akeanon: Amara opened the door."
 },
 {
 "role": "model",
@@ -1167,7 +1167,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Kate\u2019s laugh is contagious."
+"content": "translate to akeanon: Kate\u2019s laugh is contagious."
 },
 {
 "role": "model",
@@ -1179,7 +1179,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Mikay left her hat."
+"content": "translate to akeanon: Mikay left her hat."
 },
 {
 "role": "model",
@@ -1191,7 +1191,7 @@
 "messages": [
 {
 "role": "user",
-"content": "Bobby eats a lot of rice."
+"content": "translate to akeanon: Bobby eats a lot of rice."
 },
 {
 "role": "model",

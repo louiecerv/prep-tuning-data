@@ -3,20 +3,24 @@ import json
 import streamlit as st
 
 def df_to_jsonl(df):
-  """
-  Converts a pandas dataframe with 'text_input' and 'output' fields to JSONL format.
+    """
+    Converts a pandas dataframe with 'text_input' and 'output' fields to JSONL format.
 
-  Args:
-      df (pandas.DataFrame): The dataframe to convert.
+    Args:
+        df (pandas.DataFrame): The dataframe to convert.
 
-  Returns:
-      str: A JSON string in JSONL format.
-  """
-  data = []
-  for index, row in df.iterrows():
-    data.append({"messages": [{"role": "user", "content": row["text_input"]}, {"role": "model", "content": row["output"]},]})
+    Returns:
+        str: A string in JSONL format.
+    """
+    data = []
+    for _, row in df.iterrows():
+        data.append({"messages": [{"role": "user", "content": row["text_input"]}, {"role": "model", "content": row["output"]} ]})
 
-  return json.dumps(data, indent=0)
+    jsonl_string = ""
+    for entry in data:
+        jsonl_string += json.dumps(entry) + "\n"
+
+    return jsonl_string
 
 import json
 
