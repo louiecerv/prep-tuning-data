@@ -2,6 +2,8 @@ import pandas as pd
 import json
 import streamlit as st
 
+context = "You are a language assistant."
+
 def df_to_jsonl(df):
     """
     Converts a pandas dataframe with 'text_input' and 'output' fields to JSONL format.
@@ -14,7 +16,7 @@ def df_to_jsonl(df):
     """
     data = []
     for _, row in df.iterrows():
-        data.append({"messages": [{"role": "user", "content": row["text_input"]}, {"role": "model", "content": row["output"]} ]})
+        data.append({"messages": [{"role": "system", "content": context}, {"role": "user", "content": row["text_input"]}, {"role": "model", "content": row["output"]} ]})
 
     jsonl_string = ""
     for entry in data:
@@ -42,7 +44,7 @@ def is_valid_jsonl(filepath):
   return True
 
 def app():
-    st.title("Data Preparation")
+    st.title("Data Preparation Tool")
 
     # open a csv file using sa dataframe
     df = pd.read_csv("data/akeanon-sentences.csv")
@@ -50,23 +52,25 @@ def app():
     st.write("The dataset")
     st.write(df)
 
-    # convert the dataframe to jsonl
-    jsonl_str = df_to_jsonl(df)
+    st.write("Click the button to save the JSONL file.")
+    
+    if st.button("Save the JSONL file"):
+      # convert the dataframe to jsonl
+      jsonl_str = df_to_jsonl(df)
 
-    st.write(jsonl_str)
+      st.write(jsonl_str)
 
-    # save the jsonl string to a file
-    with open("data/aleanon-sentences.jsonl", "w") as f:
-        f.write(jsonl_str)
+      # save the jsonl string to a file
+      with open("data/aleanon-sentences.jsonl", "w") as f:
+          f.write(jsonl_str)
 
-    st.write("The JSONL file has been saved. Verifying if it is a valid JSONL file...")
-    # verifying if the file is a valid jsonl file
-    filepath = "data/aleanon-sentences.jsonl"
-    if is_valid_jsonl(filepath):
-        st.write(f"File {filepath} is a valid JSONL file.")
-    else:
-        st.write(f"File {filepath} is not a valid JSONL file.")
-
+      st.write("The JSONL file has been saved. Verifying if it is a valid JSONL file...")
+      # verifying if the file is a valid jsonl file
+      filepath = "data/aleanon-sentences.jsonl"
+      if is_valid_jsonl(filepath):
+          st.write(f"File {filepath} is a valid JSONL file.")
+      else:
+          st.write(f"File {filepath} is not a valid JSONL file.")
 
 if __name__ == "__main__":
-    app()   
+    app()

@@ -1,0 +1,5 @@
+{"messages": [{"role": "system", "content": "You are a language assistant."},{"role": "user", "content": "translate to english: Umagto ako sa baeay sang igkampod."}, {"role": "assistant", "content": "I went to my cousin's house."}]}
+{"messages": [{"role": "system", "content": "You are a language assistant."},{"role": "user", "content": "translate to english: Mataeom ro siyaw."}, {"role": "assistant", "content": "The knife is sharp."}]}
+{"messages": [{"role": "system", "content": "You are a language assistant."},{"role": "user", "content": "translate to english: Maeapad ro eugta ni Mang Kanor."}, {"role": "assistant", "content": "Mang Kanor's lot is wide."}]}
+{"messages": [{"role": "system", "content": "You are a language assistant."},{"role": "user", "content": "translate to english: Nagdamgo ako kabii."}, {"role": "assistant", "content": "I dreamed last night."}]}
+{"messages": [{"role": "system", "content": "You are a language assistant."},{"role": "user", "content": "translate to english: Bilog ro buean."}, {"role": "assistant", "content": "The moon is round."}]}
