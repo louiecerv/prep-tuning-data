@@ -1,0 +1,6 @@
+﻿text_input,output
+What is the specific research question or problem your thesis project aims to address?,Early detection of ischemic heart disease among asymptomatic or susceptible patients of all ages.
+Within which academic field or discipline does your thesis project reside? ,Bioinformatics
+"What research methods will you be using to gather data and analyze information (e.g., surveys, experiments, interviews)? ","Data gathering (dataset), pre-processing, and splitting. "
+Can you summarize the key existing research relevant to your thesis topic? ,"What gaps in knowledge are you trying to fill? In terms of generalizability current studies focus only on a specific dataset that raises a concern on the models applicability to other populations (example race, ethnicity and etc). The model interpretability can become a challenging part of the study because understanding how the model achieves their predictions is crucial in the model's clinical application and the validity of its result and recommendation.  "
+Are there any specific theories or models that will guide your research and analysis?,As far as I understand there’s no specific theoretical framework that is essential to our study. Our study utilizes more of the machine learning algorithms models that will be built into an ensemble learning model and eventually to a working web application. 
