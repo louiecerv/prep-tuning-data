@@ -16,7 +16,7 @@ def df_to_jsonl(df):
     """
     data = []
     for _, row in df.iterrows():
-        data.append({"messages": [{"role": "system", "content": context}, {"role": "user", "content": row["text_input"]}, {"role": "model", "content": row["output"]} ]})
+        data.append({"messages": [{"role": "system", "content": context}, {"role": "user", "content": row["text_input"]}, {"role": "assistant", "content": row["output"]} ]})
 
     jsonl_string = ""
     for entry in data:
@@ -47,7 +47,7 @@ def app():
     st.title("Data Preparation Tool")
 
     # open a csv file using sa dataframe
-    df = pd.read_csv("data/akeanon-sentences.csv")
+    df = pd.read_csv("data/karay-a.csv")
 
     st.write("The dataset")
     st.write(df)
@@ -61,7 +61,7 @@ def app():
       st.write(jsonl_str)
 
       # save the jsonl string to a file
-      with open("data/aleanon-sentences.jsonl", "w") as f:
+      with open("data/karay-a.jsonl", "w") as f:
           f.write(jsonl_str)
 
       st.write("The JSONL file has been saved. Verifying if it is a valid JSONL file...")
