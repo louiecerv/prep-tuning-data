@@ -59,18 +59,18 @@ def app():
       jsonl_str = df_to_jsonl(df)
 
       st.write(jsonl_str)
-
+      outputfile = "data/karay-a.jsonl"
       # save the jsonl string to a file
-      with open("data/thesis-info.jsonl", "w") as f:
+      with open(outputfile, "w") as f:
           f.write(jsonl_str)
 
       st.write("The JSONL file has been saved. Verifying if it is a valid JSONL file...")
       # verifying if the file is a valid jsonl file
-      filepath = "data/thesis-info.jsonl"
-      if is_valid_jsonl(filepath):
-          st.write(f"File {filepath} is a valid JSONL file.")
+
+      if is_valid_jsonl(outputfile):
+          st.write(f"File {outputfile} is a valid JSONL file.")
       else:
-          st.write(f"File {filepath} is not a valid JSONL file.")
+          st.write(f"File {outputfile} is not a valid JSONL file.")
 
 if __name__ == "__main__":
     app()
