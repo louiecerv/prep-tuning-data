@@ -47,7 +47,7 @@ def app():
     st.title("Data Preparation Tool")
 
     # open a csv file using sa dataframe
-    df = pd.read_csv("data/thesis-info.csv", encoding="utf-8")  
+    df = pd.read_csv("data/karay-a.csv", encoding="utf-8")  
 
     st.write("The dataset")
     st.write(df)
